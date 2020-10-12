@@ -2,3 +2,6 @@ ipywidgets
 matplotlib
 numpy
 sympy
+sympy.plotting
+math 
+matplotlib.pyplot 
