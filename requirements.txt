@@ -2,4 +2,4 @@ ipywidgets
 matplotlib
 numpy
 sympy
-scipy.optimize
+scipy
