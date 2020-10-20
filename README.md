@@ -1,3 +1,5 @@
+smartiS
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeterAKersten/physics/master)
 
 Dieses digitale Lehr-/Lernmaterial wurde im Rahmen des Programms Fellowships für Innovationen in der digitalen Hochschullehre des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen und des Stifterverbandes entwickelt.
